@@ -188,4 +188,12 @@ function App() {
   
 }
 
+`
+TODOS/Ideas:
+- Data Visualization on Spotify Data
+- Authentication to your personal Spotify account
+- Playlist creator
+- CSS Redesign
+`
+
 export default App;
