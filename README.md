@@ -2,9 +2,6 @@
 
 A React-based web application that integrates with the Spotify API to fetch and display music data. The app allows users to log in with their Spotify account, browse playlists, search for songs, and interact with Spotify features.
 
-This is one of the guided projects found in https://www.codedex.io/projects/build-an-album-finder-with-spotify-api 
-https://youtu.be/ZkB79Chd2S0
-
 ## **Features**
 Search bar: Search by Artist name to find their albums
 Async and Await functions. 
