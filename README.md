@@ -11,7 +11,7 @@ GET and POST HTTP Request
 ## **Setup**
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/spotify-api-react.git
+git clone https://github.com/madelinegtj/Spotify-Album-Finder.git
 cd spotify-api-react
 ```
 2. Make sure Node is installed
